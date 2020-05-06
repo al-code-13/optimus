@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024473820880",
+    "firebase_url": "https://optimus-3d9f6.firebaseio.com",
+    "project_id": "optimus-3d9f6",
+    "storage_bucket": "optimus-3d9f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024473820880:android:841293a62b296feeed38d5",
+        "android_client_info": {
+          "package_name": "com.example.optimus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024473820880-lf45loa5dfer8ud9pcj7dudfqiildjjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYriJ7c-NjZRdb8NGMfA4TgDlo5YuJ2m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024473820880-lf45loa5dfer8ud9pcj7dudfqiildjjm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024473820880-c2v2nqcitsm10kvh5q0uv3i3o4rpsdqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.optimus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
